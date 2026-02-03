@@ -1,5 +1,57 @@
-# 💫 About Me:
-[EN]<br>Hi, I’m Artun 👋<br><br>I hold a B.Sc. in Information Systems Engineering from  Kocaeli University  and work as an  Industrial Project Engineer at Ferkan A.Ş. , where I contribute to production automation and monitoring.  <br>On GitHub I build projects that bring  hardware and software  together:<br><br>- 🛠   SerialPortComCS  – C# utilities that let PCs communicate with Arduino-class devices via serial ports.  <br>- 🌾   FarmerConnect  – a full-stack Flutter + Node platform that connects farmers with veterinarians and suppliers.  <br>- 🚀   EffiTrack  – a Python/Scala big-data pipeline (Apache Kafka + Spark) that monitors energy efficiency in high-bay warehouses and detects anomalies.  <br>- 👁️‍🗨️   SeeStop  – an Android app that turns voice commands into step-by-step indoor navigation for visually-impaired users.  <br>- 🎶   MusicEmotionRecognition  – Jupyter notebooks that predict listener emotion from audio using HuBERT, CNN and LSTM models with 85 %+ F1.  <br>- 📅   CustomSchedule  – a JavaScript + SQL graph-coloring algorithm that automatically generates clash-free university timetables.  <br>- 🖼️   ArtStore  – a static e-commerce site (HTML/CSS/JS) that showcases artworks with a client-side cart and artist dashboard (live on GitHub Pages).  <br><br>[TR]<br>Merhaba, ben Artun 👋<br><br>Kocaeli Üniversitesi Bilişim Sistemleri Mühendisliği mezunuyum ve Ferkan A.Ş.’de  Endüstriyel Proje Mühendisi olarak üretim otomasyonuna ve takibine katkı sağlıyorum.  <br>GitHub’da donanım ile yazılımı buluşturan projeler geliştiriyorum:<br><br>- 🛠   SerialPortComCS  ile C# üzerinden Arduino vb. cihazlarla seri haberleşme çözümleri.<br>- 🌾   FarmerConnect : Çiftçilerle veterinerleri/tedarikçileri buluşturan Flutter + Node tam yığını.<br>- 🚀   EffiTrack : Python/Scala tabanlı büyük-veri hattı (Apache Kafka + Spark) ile yüksek raflı depolarda enerji verimliliğini izler, anomali algılar.<br>- 👁️‍🗨️   SeeStop : Java/Android uygulaması; sesli komutları anında adım-adım yönlendirmeye çevirerek görme engellilere iç mekân navigasyonu sağlar. <br>- 🎶   MusicEmotionRecognition : HuBERT, CNN ve LSTM modelleriyle ses sinyalinden dinleyici duygusunu %85+ F1 doğrulukla tahmin eden Jupyter defterleri.<br>- 📅   CustomSchedule : JavaScript + SQL ile geliştirilen grafik-boyama algoritması; üniversite ders programlarını çakışmasız otomatik oluşturur.<br>- 🖼️   ArtStore : HTML/CSS/JS tabanlı statik e-ticaret sitesi; sanat eserlerini sergiler, istemci taraflı sepet ve sanatçı girişi içerir (GitHub Pages canlı demo).
+#💫 About Me (Revised)
+[EN]
+
+##Hi, I’m Artun 👋
+
+I’m an Industrial Project Engineer at Ferkan A.Ş., working on production automation and monitoring, and I study Information Systems Engineering at Kocaeli University.
+I enjoy building end-to-end systems that connect real operations to software — from optimization & planning to data pipelines and mobile/full-stack products.
+
+Selected projects
+
+🧠 Heuristic Production Planning — a modular production planning framework built around ProblemData + ScenarioConfig + State, designed for plug-in optimizers (GA / Tabu Search / hybrid). Focus: lot sizing, capacity & shift-aware scheduling.
+
+🚀 EffiTrack — Kafka + Spark based streaming/big-data pipeline to monitor energy efficiency and detect anomalies in high-bay warehouses.
+
+🌾 FarmerConnect — full-stack Flutter + Node platform connecting farmers with veterinarians and suppliers.
+
+👁️‍🗨️ SeeStop — Android app that turns voice input → text → route detection → step-by-step voice guidance, including “off route” warnings.
+
+🎶 MusicEmotionRecognition — notebooks using HuBERT / CNN / LSTM; experiments report F1 up to ~0.85 and ROC-AUC ~0.96 on best runs.
+
+📅 CustomSchedule — graph-coloring based timetable generator (JS + SQL).
+
+🛠 SerialPortComCS — C# utilities for PC ↔ Arduino-class devices via serial ports.
+
+🖼️ ArtStore — a static HTML/CSS/JS e-commerce showcase (GitHub Pages).
+
+Tech I frequently use: Python, Java, JS/TS, Flutter/Dart, Kafka/Spark, SQL (MSSQL/Postgres), Docker/Azure.
+
+[TR]
+
+##Merhaba, ben Artun 👋
+
+Ferkan A.Ş.’de Endüstriyel Proje Mühendisi olarak üretim otomasyonu ve izleme süreçlerine katkı sağlıyorum; Kocaeli Üniversitesi Bilişim Sistemleri Mühendisliği alanında öğrenim görüyorum.
+İlgi alanım; sahadaki operasyonu yazılıma taşıyan, uçtan uca çözümler üretmek: planlama/optimizasyon, veri hatları, mobil & full-stack uygulamalar.
+
+Öne çıkan projeler
+
+🧠 Heuristic Production Planning — ProblemData + ScenarioConfig + State modeliyle kurgulanmış modüler üretim planlama altyapısı; (GA / Tabu Search / hibrit) optimizasyon eklentilerine hazır. Odak: lot büyüklüğü, kapasite ve vardiya duyarlı çizelgeleme.
+
+🚀 EffiTrack — yüksek raflı depolarda enerji verimliliğini izleyen ve anomali tespit eden Kafka + Spark tabanlı gerçek zamanlı veri hattı.
+
+🌾 FarmerConnect — çiftçi-veteriner-tedarikçi ağını birleştiren Flutter + Node tam yığın platform.
+
+👁️‍🗨️ SeeStop — sesli girdiyi metne çevirip hedefi haritada bulduktan sonra “adım adım” sesli yönlendirme yapan Android uygulaması; rotadan çıkma uyarıları içerir.
+
+🎶 MusicEmotionRecognition — HuBERT / CNN / LSTM ile müzik duygu sınıflandırma denemeleri; en iyi koşulda ~%85 F1 ve ~0.96 ROC-AUC seviyelerine çıkan sonuçlar raporlanmış.
+
+📅 CustomSchedule — grafik boyama yaklaşımıyla çakışmasız ders programı üretimi (JS + SQL).
+
+🛠 SerialPortComCS — PC ↔ Arduino benzeri cihazlar için C# seri haberleşme yardımcıları.
+
+🖼️ ArtStore — GitHub Pages üzerinde canlı, statik e-ticaret vitrin sitesi (HTML/CSS/JS).
+
+Sık kullandığım teknoloji seti: Python, Java, JS/TS, Flutter/Dart, Kafka/Spark, SQL (MSSQL/Postgres), Docker/Azure.
 
 
 ## 🌐 Socials:
