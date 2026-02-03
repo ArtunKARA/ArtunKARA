@@ -1,4 +1,4 @@
-# 💫 About Me (Revised)
+# 💫 About Me 
 [EN]
 
 ## Hi, I’m Artun 👋
