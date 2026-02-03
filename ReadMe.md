@@ -1,7 +1,7 @@
-#💫 About Me (Revised)
+# 💫 About Me (Revised)
 [EN]
 
-##Hi, I’m Artun 👋
+## Hi, I’m Artun 👋
 
 I’m an Industrial Project Engineer at Ferkan A.Ş., working on production automation and monitoring, and I study Information Systems Engineering at Kocaeli University.
 I enjoy building end-to-end systems that connect real operations to software — from optimization & planning to data pipelines and mobile/full-stack products.
@@ -28,7 +28,7 @@ Tech I frequently use: Python, Java, JS/TS, Flutter/Dart, Kafka/Spark, SQL (MSSQ
 
 [TR]
 
-##Merhaba, ben Artun 👋
+## Merhaba, ben Artun 👋
 
 Ferkan A.Ş.’de Endüstriyel Proje Mühendisi olarak üretim otomasyonu ve izleme süreçlerine katkı sağlıyorum; Kocaeli Üniversitesi Bilişim Sistemleri Mühendisliği alanında öğrenim görüyorum.
 İlgi alanım; sahadaki operasyonu yazılıma taşıyan, uçtan uca çözümler üretmek: planlama/optimizasyon, veri hatları, mobil & full-stack uygulamalar.
